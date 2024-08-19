@@ -1,0 +1,16 @@
+artifact_uri: file:///c:/Users/medha/OneDrive/Desktop/WorkSpace/mlflow/eval/mlruns/0/847f82dc68bd4734aeabd1bff6bf6095/artifacts
+deleted_time: 1724016325441
+end_time: 1724016246301
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: deleted
+run_id: 847f82dc68bd4734aeabd1bff6bf6095
+run_name: gregarious-horse-50
+run_uuid: 847f82dc68bd4734aeabd1bff6bf6095
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1724016207939
+status: 3
+tags: []
+user_id: medha

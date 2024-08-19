@@ -1,0 +1,16 @@
+artifact_uri: file:///c:/Users/medha/OneDrive/Desktop/WorkSpace/mlflow/eval/mlruns/0/2642689891164b708b039e6a0dba633f/artifacts
+deleted_time: 1724016325442
+end_time: 1724016076836
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: deleted
+run_id: 2642689891164b708b039e6a0dba633f
+run_name: learned-slug-835
+run_uuid: 2642689891164b708b039e6a0dba633f
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1724016038412
+status: 3
+tags: []
+user_id: medha

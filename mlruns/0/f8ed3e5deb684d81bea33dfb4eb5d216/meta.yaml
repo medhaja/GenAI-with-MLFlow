@@ -1,0 +1,16 @@
+artifact_uri: file:///c:/Users/medha/OneDrive/Desktop/WorkSpace/mlflow/eval/mlruns/0/f8ed3e5deb684d81bea33dfb4eb5d216/artifacts
+deleted_time: 1724016325450
+end_time: 1724013573713
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: deleted
+run_id: f8ed3e5deb684d81bea33dfb4eb5d216
+run_name: resilient-horse-957
+run_uuid: f8ed3e5deb684d81bea33dfb4eb5d216
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1724013470432
+status: 3
+tags: []
+user_id: medha

@@ -1,0 +1,16 @@
+artifact_uri: file:///c:/Users/medha/OneDrive/Desktop/WorkSpace/mlflow/eval/mlruns/0/51d01f7e381a4875bbcdec30ea52015b/artifacts
+deleted_time: 1724013370987
+end_time: 1724012103134
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: deleted
+run_id: 51d01f7e381a4875bbcdec30ea52015b
+run_name: indecisive-mare-576
+run_uuid: 51d01f7e381a4875bbcdec30ea52015b
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1724012054352
+status: 3
+tags: []
+user_id: medha

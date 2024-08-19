@@ -1,0 +1,16 @@
+artifact_uri: file:///c:/Users/medha/OneDrive/Desktop/WorkSpace/mlflow/eval/mlruns/0/6abda33b061e4d2a8cb6664a81583df6/artifacts
+deleted_time: 1724013370993
+end_time: 1723665756743
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: deleted
+run_id: 6abda33b061e4d2a8cb6664a81583df6
+run_name: dapper-bear-809
+run_uuid: 6abda33b061e4d2a8cb6664a81583df6
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1723665704566
+status: 3
+tags: []
+user_id: medha

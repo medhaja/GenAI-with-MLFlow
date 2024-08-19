@@ -1,0 +1,8 @@
+pandas
+langchain
+langchain-openai
+langchain-community
+mlflow
+pypdf
+faiss-cpu
+python-dotenv

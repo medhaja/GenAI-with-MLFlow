@@ -1,0 +1,16 @@
+artifact_uri: file:///c:/Users/medha/OneDrive/Desktop/WorkSpace/mlflow/eval/mlruns/0/34f0465aa50c45ae9c082beff49e1238/artifacts
+deleted_time: 1724013370985
+end_time: 1724012245802
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: deleted
+run_id: 34f0465aa50c45ae9c082beff49e1238
+run_name: peaceful-zebra-549
+run_uuid: 34f0465aa50c45ae9c082beff49e1238
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1724012206188
+status: 3
+tags: []
+user_id: medha

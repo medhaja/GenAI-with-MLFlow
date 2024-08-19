@@ -1,0 +1,16 @@
+artifact_uri: file:///c:/Users/medha/OneDrive/Desktop/WorkSpace/mlflow/eval/mlruns/0/373fd692a4c34aba908f6775340abc5f/artifacts
+deleted_time: 1724016325443
+end_time: 1724014106376
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: deleted
+run_id: 373fd692a4c34aba908f6775340abc5f
+run_name: clean-cub-455
+run_uuid: 373fd692a4c34aba908f6775340abc5f
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1724014062762
+status: 3
+tags: []
+user_id: medha

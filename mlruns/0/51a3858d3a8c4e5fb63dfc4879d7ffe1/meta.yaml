@@ -1,0 +1,16 @@
+artifact_uri: file:///c:/Users/medha/OneDrive/Desktop/WorkSpace/mlflow/eval/mlruns/0/51a3858d3a8c4e5fb63dfc4879d7ffe1/artifacts
+deleted_time: 1724016325444
+end_time: 1724015960651
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: deleted
+run_id: 51a3858d3a8c4e5fb63dfc4879d7ffe1
+run_name: agreeable-duck-886
+run_uuid: 51a3858d3a8c4e5fb63dfc4879d7ffe1
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1724015960048
+status: 4
+tags: []
+user_id: medha

@@ -1,0 +1,16 @@
+artifact_uri: file:///c:/Users/medha/OneDrive/Desktop/WorkSpace/mlflow/eval/mlruns/0/7cd0930bd720431796f521c7e5e37adf/artifacts
+deleted_time: 1724013370993
+end_time: 1723566664934
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: deleted
+run_id: 7cd0930bd720431796f521c7e5e37adf
+run_name: bittersweet-foal-924
+run_uuid: 7cd0930bd720431796f521c7e5e37adf
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1723566594651
+status: 3
+tags: []
+user_id: medha

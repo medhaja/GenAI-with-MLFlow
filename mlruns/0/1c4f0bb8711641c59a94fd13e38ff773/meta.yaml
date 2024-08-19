@@ -1,0 +1,16 @@
+artifact_uri: file:///c:/Users/medha/OneDrive/Desktop/WorkSpace/mlflow/eval/mlruns/0/1c4f0bb8711641c59a94fd13e38ff773/artifacts
+deleted_time: 1724013370989
+end_time: 1723665999034
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: deleted
+run_id: 1c4f0bb8711641c59a94fd13e38ff773
+run_name: painted-snipe-734
+run_uuid: 1c4f0bb8711641c59a94fd13e38ff773
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1723665972993
+status: 3
+tags: []
+user_id: medha

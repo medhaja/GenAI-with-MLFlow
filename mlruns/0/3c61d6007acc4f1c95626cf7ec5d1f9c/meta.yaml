@@ -1,0 +1,16 @@
+artifact_uri: file:///c:/Users/medha/OneDrive/Desktop/WorkSpace/mlflow/eval/mlruns/0/3c61d6007acc4f1c95626cf7ec5d1f9c/artifacts
+deleted_time: 1724013370987
+end_time: 1723666201040
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: deleted
+run_id: 3c61d6007acc4f1c95626cf7ec5d1f9c
+run_name: bald-fawn-531
+run_uuid: 3c61d6007acc4f1c95626cf7ec5d1f9c
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1723666169409
+status: 3
+tags: []
+user_id: medha
