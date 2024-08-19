@@ -17,22 +17,6 @@ This project demonstrates how to use GenAI with MLFlow for evaluating a question
 - [Contributing](#contributing)
 - [License](#license)
 
-## Project Structure
-
-project/
-│
-├── .env
-├── requirements.txt
-├── main.py
-├── config.py
-├── utils.py
-├── models.py
-├── evaluators.py
-├── Dockerfile
-├── docker-compose.yml
-├── .dockerignore
-└── .gitignore
-
 ## Prerequisites
 
 - Python 3.9
