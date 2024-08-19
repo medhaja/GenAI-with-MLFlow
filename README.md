@@ -1,3 +1,5 @@
+Corrected README.md
+
 # GenAI with MLFlow
 
 This project demonstrates how to use GenAI with MLFlow for evaluating a question-answering model. The project is structured to be modular, well-documented, and follows best practices for reproducibility, scalability, and maintainability.
@@ -45,8 +47,8 @@ project/
    git clone https://github.com/your-username/your-repo.git
    cd your-repo
 
-2. **Create a virtual environment**:
-```bash
+    Create a virtual environment:
+
 python -m venv venv
 source venv/bin/activate  # On Windows, use `venv\Scripts\activate`
 
@@ -137,3 +139,4 @@ This project is licensed under the MIT License. See the LICENSE file for details
    - Specifies the license under which the project is distributed.
 
 By following the instructions in the `README.md` file, users should be able to set up and run the project both locally and using Docker.
+
